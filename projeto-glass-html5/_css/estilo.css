@@ -248,3 +248,12 @@ footer#rodape p {
     text-align: center;
 
 }
+
+video#filme1 {
+    width: 490px;
+    padding: 10px;
+}
+
+video#filme2 {
+    width: 350px;
+}
