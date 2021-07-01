@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 form {
-    width: 700px;
+    width: 600px;
     margin: auto;
 }
 
@@ -34,16 +34,25 @@ fieldset#sexo {
 
 fieldset#usuario {
     background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;
+    width: 500px;
+    margin: auto;
 }
 
 fieldset#endereco {
     background: url("../_imagens/icone-endereco.png") no-repeat 95% 95%;
+    width: 500px;
+    margin: auto;
+    
 }
 
 fieldset#mensagem {
     background: url("../_imagens/icone-mensagem.png") no-repeat 95% 95%;
+    width: 500px;
+    margin: auto;
 }
 
 fieldset#pedido {
     background: url("../_imagens/icone-pagamento.png") no-repeat 95% 95%;
+    width: 500px;
+    margin: auto;
 }
